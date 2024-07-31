@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homePage"
+        android:title="Home Page"
+        android:titleCondensed="Home"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/addTeam"
+        android:title="Add Team"
+        android:titleCondensed="Add"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/editTeam"
+        android:title="Edit Team"
+        android:titleCondensed="Edit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/deleteTeam"
+        android:title="Delete Team"
+        android:titleCondensed="Delete"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/displayTeams"
+        android:title="Display Teams"
+        android:titleCondensed="Display"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551180693022",
+    "project_id": "fifa2022android",
+    "storage_bucket": "fifa2022android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551180693022:android:fae9abf3695f9ac359080f",
+        "android_client_info": {
+          "package_name": "project.stn991662556.fifaworldcup2022"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJKLx2lGPdmLwDWJqWP_qKGccDCXcVCUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
